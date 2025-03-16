@@ -1,0 +1,19 @@
+anaconda中已经安装好了manim, 
+1.创建 Conda 环境：
+conda create -n manim-env python=3.8
+conda activate manim-env
+
+检查 VSCode 的 Python 解释器：
+
+    打开命令面板（Ctrl+Shift+P），搜索并选择 Python: Select Interpreter。
+
+    确保选择的是你的 Conda 环境（如 my-manim-environment）。
+
+    确认 VSCode 右下角显示的是正确的 Conda 环境。
+
+验证环境是否激活：
+在 VSCode 的终端中运行：
+bash
+复制
+
+conda info --envs

@@ -1,0 +1,7 @@
+# config/color_schemes.yaml
+bubble_sort:
+  element_colors:
+    default: "#2196F3"  # Material Blue
+    highlight: "#FF5252" # Material Red
+    sorted: "#4CAF50"  # Material Green
+  background: "#212121"  # Dark Gray
