@@ -1,5 +1,10 @@
 import sys
-sys.path.append("E:/工作学习/algorithm-animation")
+import os
+
+# 自动获取项目根目录（无论从哪里运行）
+current_dir = os.path.dirname(os.path.abspath(__file__))
+project_root = os.path.abspath(os.path.join(current_dir, "../../.."))  # 根据实际层级调整
+sys.path.append(project_root)
 
 from src.algorithms.sorting.bubble.basic.basic_bubble import BubbleSort
 from manim import config

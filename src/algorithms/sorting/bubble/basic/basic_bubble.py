@@ -1,4 +1,16 @@
-from core.base.sorting_base import SortingBase
+# import sys
+# import os
+
+# # 自动获取项目根目录（无论从哪里运行）
+# current_dir = os.path.dirname(os.path.abspath(__file__))
+# project_root = os.path.abspath(os.path.join(current_dir, "../../.."))  # 根据实际层级调整
+# sys.path.append(project_root)
+
+import sys
+# 使用原始字符串设置路径
+sys.path.append(r"D://algorithm-animation/soc-anima")
+
+from src.core.base.sorting_base import SortingBase
 from manim import Text  # 导入 Text 类
 
 class BubbleSort(SortingBase):
