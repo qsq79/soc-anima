@@ -1,0 +1,6 @@
+# This file is used internally by FFMPEG.
+file 'file:D:/algorithm-animation/soc-anima/media/videos/1080p60/partial_movie_files/CodeTheoryLogo/3939617772_463604831_223132457.mp4'
+file 'file:D:/algorithm-animation/soc-anima/media/videos/1080p60/partial_movie_files/CodeTheoryLogo/638729973_1454258872_2794303669.mp4'
+file 'file:D:/algorithm-animation/soc-anima/media/videos/1080p60/partial_movie_files/CodeTheoryLogo/638729973_3784284595_2334981605.mp4'
+file 'file:D:/algorithm-animation/soc-anima/media/videos/1080p60/partial_movie_files/CodeTheoryLogo/638729973_2156872699_1461795915.mp4'
+file 'file:D:/algorithm-animation/soc-anima/media/videos/1080p60/partial_movie_files/CodeTheoryLogo/638729973_2872842549_258412625.mp4'

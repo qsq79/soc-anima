@@ -1,0 +1,10 @@
+# This file is used internally by FFMPEG.
+file 'file:D:/algorithm-animation/soc-anima/media/videos/1080p60/partial_movie_files/MechanicalHorseLogo/2543837439_3335191537_3511331793.mp4'
+file 'file:D:/algorithm-animation/soc-anima/media/videos/1080p60/partial_movie_files/MechanicalHorseLogo/2358418272_2413873842_223132457.mp4'
+file 'file:D:/algorithm-animation/soc-anima/media/videos/1080p60/partial_movie_files/MechanicalHorseLogo/2358418272_2088494057_1947085318.mp4'
+file 'file:D:/algorithm-animation/soc-anima/media/videos/1080p60/partial_movie_files/MechanicalHorseLogo/2358418272_4028536258_3451011342.mp4'
+file 'file:D:/algorithm-animation/soc-anima/media/videos/1080p60/partial_movie_files/MechanicalHorseLogo/2358418272_1754866905_3998637083.mp4'
+file 'file:D:/algorithm-animation/soc-anima/media/videos/1080p60/partial_movie_files/MechanicalHorseLogo/2358418272_2929218506_1931433052.mp4'
+file 'file:D:/algorithm-animation/soc-anima/media/videos/1080p60/partial_movie_files/MechanicalHorseLogo/2358418272_1744757968_3779547811.mp4'
+file 'file:D:/algorithm-animation/soc-anima/media/videos/1080p60/partial_movie_files/MechanicalHorseLogo/2358418272_772559101_2242684008.mp4'
+file 'file:D:/algorithm-animation/soc-anima/media/videos/1080p60/partial_movie_files/MechanicalHorseLogo/2358418272_1623705852_1177166657.mp4'

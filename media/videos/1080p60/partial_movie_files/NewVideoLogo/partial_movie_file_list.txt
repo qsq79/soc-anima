@@ -1,0 +1,10 @@
+# This file is used internally by FFMPEG.
+file 'file:D:/algorithm-animation/soc-anima/media/videos/1080p60/partial_movie_files/NewVideoLogo/2543837439_3335191537_3511331793.mp4'
+file 'file:D:/algorithm-animation/soc-anima/media/videos/1080p60/partial_movie_files/NewVideoLogo/2358418272_1557797588_223132457.mp4'
+file 'file:D:/algorithm-animation/soc-anima/media/videos/1080p60/partial_movie_files/NewVideoLogo/2358418272_3628579719_4106362090.mp4'
+file 'file:D:/algorithm-animation/soc-anima/media/videos/1080p60/partial_movie_files/NewVideoLogo/2358418272_3685814279_2205668113.mp4'
+file 'file:D:/algorithm-animation/soc-anima/media/videos/1080p60/partial_movie_files/NewVideoLogo/2358418272_800479514_2790729107.mp4'
+file 'file:D:/algorithm-animation/soc-anima/media/videos/1080p60/partial_movie_files/NewVideoLogo/2358418272_1371753130_2105777387.mp4'
+file 'file:D:/algorithm-animation/soc-anima/media/videos/1080p60/partial_movie_files/NewVideoLogo/2358418272_3793590413_3711180258.mp4'
+file 'file:D:/algorithm-animation/soc-anima/media/videos/1080p60/partial_movie_files/NewVideoLogo/2358418272_3231032307_1890718148.mp4'
+file 'file:D:/algorithm-animation/soc-anima/media/videos/1080p60/partial_movie_files/NewVideoLogo/2358418272_1623705852_1062208129.mp4'
