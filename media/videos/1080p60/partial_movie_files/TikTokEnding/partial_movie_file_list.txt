@@ -1,0 +1,8 @@
+# This file is used internally by FFMPEG.
+file 'file:D:/algorithm-animation/soc-anima/media/videos/1080p60/partial_movie_files/TikTokEnding/4258838952_4055603236_2358810818.mp4'
+file 'file:D:/algorithm-animation/soc-anima/media/videos/1080p60/partial_movie_files/TikTokEnding/2458305726_298344782_2408001943.mp4'
+file 'file:D:/algorithm-animation/soc-anima/media/videos/1080p60/partial_movie_files/TikTokEnding/2458305726_918948342_1336399883.mp4'
+file 'file:D:/algorithm-animation/soc-anima/media/videos/1080p60/partial_movie_files/TikTokEnding/2458305726_3612772412_763869715.mp4'
+file 'file:D:/algorithm-animation/soc-anima/media/videos/1080p60/partial_movie_files/TikTokEnding/2458305726_893387597_2362792782.mp4'
+file 'file:D:/algorithm-animation/soc-anima/media/videos/1080p60/partial_movie_files/TikTokEnding/2458305726_2998484765_1384041113.mp4'
+file 'file:D:/algorithm-animation/soc-anima/media/videos/1080p60/partial_movie_files/TikTokEnding/2458305726_1623705852_3645526755.mp4'

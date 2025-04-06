@@ -24,9 +24,9 @@ class CodeTheoryLogo(Scene):
         eye = VGroup(eye_outline, eye_pupil)
         
         # 3. 文字元素
-        name_cn = Text("码理可视", font="思源黑体 CN Heavy", font_size=48)
-        name_en = Text("CodeTheory", font="Roboto Mono", font_size=36)
-        text_group = VGroup(name_cn, name_en).arrange(DOWN, center=False, aligned_edge=LEFT)
+        name_cn = Text("@码理炼金", font="思源黑体 CN Heavy", font_size=48)
+        # name_en = Text("Code Alchemy", font="Roboto Mono", font_size=36)
+        text_group = VGroup(name_cn).arrange(DOWN, center=False, aligned_edge=LEFT)
         
         # 4. 组合布局
         logo = VGroup(code_icon, eye, text_group).arrange(RIGHT, buff=0.8)
@@ -53,7 +53,7 @@ class CodeTheoryLogo(Scene):
         # 文字动画
         self.play(
             Write(name_cn),
-            Write(name_en),
+            # Write(name_en),
             run_time=1.5
         )
         
