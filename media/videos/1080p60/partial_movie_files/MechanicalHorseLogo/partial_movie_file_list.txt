@@ -1,7 +1,0 @@
-# This file is used internally by FFMPEG.
-file 'file:D:/algorithm-animation/soc-anima/media/videos/1080p60/partial_movie_files/MechanicalHorseLogo/2543837439_4090058891_2273189541.mp4'
-file 'file:D:/algorithm-animation/soc-anima/media/videos/1080p60/partial_movie_files/MechanicalHorseLogo/2358418272_2088494057_4161892291.mp4'
-file 'file:D:/algorithm-animation/soc-anima/media/videos/1080p60/partial_movie_files/MechanicalHorseLogo/2358418272_2929218506_4261172050.mp4'
-file 'file:D:/algorithm-animation/soc-anima/media/videos/1080p60/partial_movie_files/MechanicalHorseLogo/2358418272_3692572061_3730357956.mp4'
-file 'file:D:/algorithm-animation/soc-anima/media/videos/1080p60/partial_movie_files/MechanicalHorseLogo/2358418272_3029456367_2678803472.mp4'
-file 'file:D:/algorithm-animation/soc-anima/media/videos/1080p60/partial_movie_files/MechanicalHorseLogo/2358418272_1623705852_1306688553.mp4'
